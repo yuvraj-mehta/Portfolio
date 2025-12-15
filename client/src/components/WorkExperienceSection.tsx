@@ -32,7 +32,7 @@ const Experience = () => {
       location: "NIT Patna",
       description:
         "Organized and facilitated 3+ workshops on designing and building robotic bots. Led a team of 4 to build a combat-ready battle bot, achieving 4th place among 15+ teams at NIT Patna's tech fest. Directed a team of 3 in designing and developing a soccer bot for the annual tech fest, enhancing hands-on robotics and teamwork skills.",
-      technologies: ["Arduino", "C++", "Mechanical Design", "Team Leadership"],
+      technologies: ["Arduino", "Mechanical Design", "Team Leadership"],
       highlights: [
         "4th place in tech fest",
         "3+ workshops organized",
@@ -47,7 +47,7 @@ const Experience = () => {
       period: "2023",
       location: "NIT Patna & Remote",
       description:
-        "Led teams in 3 major hackathons, including the prestigious Smart India Hackathon. Guided my team to qualify at the internal NIT Patna hackathon and advance to the national level. Oversaw all phases from ideation to development and presentation, ensuring effective collaboration and timely delivery of innovative solutions.",
+        "Led teams in 4 major hackathons, including the prestigious Smart India Hackathon. Guided my team to qualify at the internal NIT Patna hackathon and advance to the national level. Oversaw all phases from ideation to development and presentation, ensuring effective collaboration and timely delivery of innovative solutions.",
       technologies: [
         "Problem Solving",
         "Team Management",

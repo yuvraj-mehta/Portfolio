@@ -34,15 +34,14 @@ export const personalInfo = {
 
 // Contact information
 export const contactInfo = {
-  email: config.contactEmail || "yuvraj.mehta532@gmail.com",
+  email: "yuvraj.mehta532@gmail.com",
   phone: "+91-9334083113",
 };
 
 // Social media links
 export const socialLinks = {
-  github: config.githubUrl || "https://github.com/yuvraj-mehta",
-  linkedin:
-    config.linkedinUrl || "https://www.linkedin.com/in/yuvraj-mehta-a0274528a/",
+  github: "https://github.com/yuvraj-mehta",
+  linkedin: "https://www.linkedin.com/in/yuvraj-mehta-a0274528a/",
   instagram: "https://www.instagram.com/yuvraj.mehta4261/",
   twitter: "https://twitter.com/",
   leetcode: "https://leetcode.com/u/mythical-UV/",
@@ -52,15 +51,14 @@ export const socialLinks = {
 
 // Resume information
 export const resumeInfo = {
-  downloadPath: config.resumeUrl || "/Yuvraj_Resume_v2_1 (1).pdf",
+  downloadPath: "/Yuvraj_Resume_v2_1 (1).pdf",
   downloadName: "Yuvraj_Mehta_Resume.pdf",
 };
 
 // Code stats
 export const codeStats = {
   leetcodeRank: "Top 26%",
-  techBooksRead: "8+",
-  techCommunitiesJoined: "5+",
+  techCommunitiesJoined: "2+",
 };
 
 // Navigation links
@@ -79,7 +77,7 @@ export const navLinks = [
 // Note: The actual platform data is quite extensive and is better kept in the CodingSkillsSection
 // This is just basic info to maintain consistency across components
 export const codingSkills = {
-  webDevelopment: { name: "Web Development", level: 80, label: "80%" },
-  dataStructures: { name: "Data Structures", level: 85, label: "85%" },
+  webDevelopment: { name: "Web Development", level: 75, label: "75%" },
+  dataStructures: { name: "Data Structures", level: 75, label: "75%" },
   algorithms: { name: "Algorithms", level: 75, label: "75%" },
 };
