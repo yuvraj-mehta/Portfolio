@@ -1,0 +1,301 @@
+{
+  "codingPlatformStats": {
+    "leetcode": {
+      "rating": 1649,
+      "maxRating": 1649,
+      "problemsSolved": 277,
+      "ranking": 125365
+    },
+    "codechef": {
+      "rating": 1451,
+      "maxRating": 1456,
+      "starLevel": 2,
+      "problemsSolved": 25,
+      "division": "div3"
+    },
+    "codeforces": {
+      "rating": 1030,
+      "maxRating": 1085,
+      "rank": "newbie",
+      "problemsSolved": 27
+    },
+    "gfg": {
+      "problemsSolved": 130,
+      "currentCollegeRank": 1058
+    }
+  },
+  "projects": [
+    {
+      "title": "BookHive",
+      "description": "BookNest is a full-stack library management system with distinct user and admin roles. It features book and PYQ management, a borrowing system, OTP-verified authentication, and separate dashboards. Built with React, Node.js, Express.js, and MongoDB.",
+      "shortDescription": "Full-stack library management system with user/admin roles, book management, and secure authentication.",
+      "technologies": [
+        "React",
+        "Redux Toolkit",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "JWT"
+      ],
+      "github": "https://github.com/yuvraj-mehta/Byteverse_NandiNinjas",
+      "liveDemo": "https://bookhive-manager.vercel.app",
+      "featured": true,
+      "category": "fullstack"
+    },
+    {
+      "title": "Portfolio Website",
+      "description": "Personal developer portfolio showcasing projects and skills. Designed and built a responsive single-page portfolio with smooth animations and dynamic navigation. Integrated a contact form using EmailJS and added a downloadable resume feature.",
+      "shortDescription": "Responsive developer portfolio with smooth animations, dynamic navigation, and integrated contact form.",
+      "technologies": [
+        "React",
+        "Tailwind CSS",
+        "Framer Motion",
+        "Vite"
+      ],
+      "github": "https://github.com/yuvraj-mehta/My-Portfolio",
+      "liveDemo": "https://yuvrajmehta.codes",
+      "featured": true,
+      "category": "frontend"
+    },
+    {
+      "title": "Stickify",
+      "description": "This is a simple notes application built with React and Vite. It allows users to create, update, delete, and manage notes with different colors. The application uses Appwrite as the backend service for managing notes.",
+      "shortDescription": "Simple notes app with color-coded organization, CRUD operations, and Appwrite backend integration.",
+      "technologies": [
+        "React",
+        "Vite",
+        "Tailwind CSS",
+        "Appwrite"
+      ],
+      "github": "https://github.com/yuvraj-mehta/Stickify",
+      "liveDemo": "https://stickify-git-master-yuvraj-mehtas-projects.vercel.app/",
+      "featured": false,
+      "category": "frontend"
+    },
+    {
+      "title": "EcoGuardian",
+      "description": "An online community platform empowering individuals to collaborate on environmental projects, report cleanliness issues, access educational resources, and drive positive change for a cleaner, greener future. 🌍",
+      "shortDescription": "Environmental community platform for project collaboration, issue reporting, and educational resources.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "MongoDB"
+      ],
+      "github": "https://github.com/yuvraj-mehta/EcoGuardian_prototype",
+      "liveDemo": "https://yuvraj-mehta.github.io/EcoGuardian_prototype/",
+      "featured": true,
+      "category": "fullstack"
+    }
+  ],
+  "contact": {
+    "email": "yuvraj.mehta532@gmail.com",
+    "phone": "+91-9334083113",
+    "preferredMethod": "Email",
+    "availability": "Open to opportunities"
+  },
+  "personalInfo": {
+    "name": "Yuvraj Mehta",
+    "title": "Full Stack Developer",
+    "location": "Gaya, Bihar, India",
+    "shortBio": {
+      "intro": "B.Tech CS student at NIT Patna passionate about building full stack applications with a focus on user-friendly interfaces. Skilled in MERN Stack."
+    },
+    "aboutBio": {
+      "full": "Computer Science student at NIT Patna passionate about full stack development with a strong foundation in Data Structures & Algorithms. I approach technical challenges analytically and continually expand my skills in GenAI and modern web technologies. As a Robotics Club member, I've organized workshops and led teams building combat and soccer bots. Outside coding, I enjoy competitive programming and sports, having won Bronze in 50m Hurdles at NIT Patna Intramurals."
+    },
+    "yearsOfCoding": "2+ years of coding"
+  },
+  "contactInfo": {
+    "email": "yuvraj.mehta532@gmail.com",
+    "phone": "+91-9334083113"
+  },
+  "socialLinks": {
+    "github": "https://github.com/yuvraj-mehta",
+    "linkedin": "https://www.linkedin.com/in/yuvraj-mehta-a0274528a/",
+    "instagram": "https://www.instagram.com/yuvraj.mehta4261/",
+    "twitter": "https://x.com/yuvraj_mehta02",
+    "leetcode": "https://leetcode.com/u/mythical-UV/",
+    "gfg": "https://www.geeksforgeeks.org/user/yuvrajmevbrx/",
+    "codechef": "https://www.codechef.com/users/quick_unity_53",
+    "portfolio": "https://portfolio.yuvrajmehta.codes/"
+  },
+  "education": [
+    {
+      "level": "Bachelor of Technology",
+      "title": "B.Tech in Computer Science and Engineering",
+      "institution": "National Institute of Technology, Patna",
+      "location": "Patna, Bihar",
+      "duration": "2023 - 2027",
+      "status": "current",
+      "cgpa": "7.68/10",
+      "activities": [
+        "Class Representative for CSE Department",
+        "Member of Technical Club",
+        "Competitive Programming Participant"
+      ],
+      "courses": [
+        "Data Structures & Algorithms",
+        "Database Management Systems",
+        "Operating Systems",
+        "Computer Networks",
+        "Artificial Intelligence"
+      ],
+      "achievements": [
+        "Maintaining CGPA of 7.68/10",
+        "Class Representative for CSE Department",
+        "MUN Best Delegate Award"
+      ]
+    },
+    {
+      "level": "Higher Secondary",
+      "title": "Class XII (CBSE)",
+      "institution": "Pragya Bharti Public School, Gaya",
+      "location": "Gaya, Bihar",
+      "duration": "2021 - 2022",
+      "status": "completed",
+      "percentage": "88.88%",
+      "activities": [
+      ],
+      "courses": [
+        "Physics",
+        "Chemistry",
+        "Mathematics",
+        "English",
+        "Physical Education"
+      ],
+      "achievements": [
+        "Scored 88.88% in CBSE Class 12",
+        "School Merit List"
+      ]
+    },
+    {
+      "level": "Secondary",
+      "title": "Class X (CBSE)",
+      "institution": "Pragya Bharti Public School, Gaya",
+      "location": "Gaya, Bihar",
+      "duration": "2019 - 2020",
+      "status": "completed",
+      "percentage": "91%",
+      "activities": [
+        "Science Exhibitions",
+        "Sports Competitions",
+        "Debate Competitions"
+      ],
+      "courses": [
+        "Science",
+        "Mathematics",
+        "Social Studies",
+        "English",
+        "Sanskrit",
+        "Information Technology"
+      ],
+      "achievements": [
+        "Scored 90% in CBSE Class 10"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "role": "Technical Member",
+      "company": "Robotics Club, NIT Patna",
+      "period": "December 2023 - Present",
+      "location": "NIT Patna",
+      "status": "current",
+      "description": "Organized and facilitated 3+ workshops on designing and building robotic bots. Led a team of 4 to build a combat-ready battle bot, achieving 4th place among 15+ teams at NIT Patna's tech fest. Directed a team of 3 in designing and developing a soccer bot for the annual tech fest, enhancing hands-on robotics and teamwork skills.",
+      "technologies": [
+        "Arduino",
+        "Mechanical Design",
+        "Team Leadership"
+      ],
+      "highlights": [
+        "4th place in tech fest",
+        "3+ workshops organized",
+        "Team of 4-7 members"
+      ],
+      "category": "technical"
+    },
+    {
+      "role": "Team Leader",
+      "company": "Hackathons (including Smart India Hackathon)",
+      "period": "2023",
+      "location": "NIT Patna & Remote",
+      "status": "completed",
+      "description": "Led teams in 4 major hackathons, including the prestigious Smart India Hackathon. Guided my team to qualify at the internal NIT Patna hackathon and advance to the national level. Oversaw all phases from ideation to development and presentation, ensuring effective collaboration and timely delivery of innovative solutions.",
+      "technologies": [
+        "Problem Solving",
+        "Team Management",
+        "Presentation",
+        "Innovation"
+      ],
+      "highlights": [
+        "National level qualification",
+        "3 major hackathons",
+        "End-to-end project management"
+      ],
+      "category": "leadership"
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Winner - Model United Nations",
+      "year": "2023",
+      "description": "Represented the Republic of Poland at NIT Patna's Model United Nations. Earned the Best Delegate award for exceptional debate skills and impactful resolutions.",
+      "featured": true,
+      "category": "competition"
+    },
+    {
+      "title": "Technical Member",
+      "year": "2023 - Present",
+      "description": "Active member of the Robotics Club, led team building combat and soccer bots, organized workshops.",
+      "featured": true,
+      "category": "technical"
+    },
+    {
+      "title": "Class Representative",
+      "year": "2023 - 2024",
+      "description": "Coordinated between faculty and students, organized department events for 3semesters.",
+      "featured": false,
+      "category": "leadership"
+    },
+    {
+      "title": "Bronze Medal - NIT Patna Intramurals",
+      "year": "2023",
+      "description": "Won Bronze in 50m Hurdles at the university sports event.",
+      "featured": false,
+      "category": "sports"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Web Development Bootcamp",
+      "issuer": "Udemy",
+      "year": "2023",
+      "description": "Comprehensive full-stack web development course covering HTML, CSS, JavaScript, complete MERN stack, and deployment.",
+      "featured": true,
+      "category": "technical"
+    }
+  ],
+  "interests": [
+    "Competitive Programming",
+    "Robotics",
+    "Atheletics",
+    "Technical Workshops",
+    "Team Leadership",
+    "Problem Solving"
+  ],
+  "recentActivities": {
+    "recentProjects": [
+      "Portfolio revamp",
+      "Hackathon project development"
+    ],
+    "latestAchievements": [
+      "Qualified for national level hackathon SIH in college level internal hackathon"
+    ],
+    "currentLearning": "Machine Learning and system design",
+    "events": [
+    ]
+  }
+}

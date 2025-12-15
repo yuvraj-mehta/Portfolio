@@ -2,8 +2,8 @@
   "handle": "yuvraj.mehta532",
   "profile": {
     "name": "Yuvraj Mehta",
-    "rating": 876,
-    "maxRating": 876,
+    "rating": 1030,
+    "maxRating": 1085,
     "rank": "newbie",
     "globalRanking": null,
     "avatar": "https://userpic.codeforces.org/4277927/avatar/2fd6a7dfe0ff5dce.jpg",
@@ -12,17 +12,17 @@
     "contribution": 0
   },
   "problemsSolved": {
-    "total": 6,
-    "easy": 4,
+    "total": 27,
+    "easy": 25,
     "medium": 0,
     "hard": 0,
     "unrated": 2
   },
   "contests": {
-    "rating": 876,
-    "attendedCount": 4,
+    "rating": 1030,
+    "attendedCount": 7,
     "globalRanking": null,
-    "bestRank": 13055,
+    "bestRank": 7099,
     "topPercentage": null
   },
   "achievements": {
@@ -30,5 +30,5 @@
     "badges": "newbie",
     "streaks": null
   },
-  "lastUpdated": "2025-06-22T16:34:55.990Z"
+  "lastUpdated": "2025-08-18T12:59:57.719Z"
 }

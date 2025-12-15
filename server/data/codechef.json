@@ -2,25 +2,25 @@
   "handle": "quick_unity_53",
   "profile": {
     "name": null,
-    "rating": 1435,
-    "maxRating": 1451,
+    "rating": 1451,
+    "maxRating": 1456,
     "rank": null,
-    "globalRanking": 38842,
+    "globalRanking": 35005,
     "avatar": null,
     "country": null,
     "organization": null
   },
   "problemsSolved": {
-    "total": 17,
-    "easy": 6,
-    "medium": 6,
+    "total": 25,
+    "easy": 10,
+    "medium": 10,
     "hard": 5,
     "basic": 0
   },
   "contests": {
-    "rating": 1435,
-    "attendedCount": 5,
-    "globalRanking": 38842,
+    "rating": 1451,
+    "attendedCount": 9,
+    "globalRanking": 35005,
     "bestRank": null,
     "topPercentage": null
   },
@@ -29,5 +29,5 @@
     "badges": null,
     "streaks": null
   },
-  "lastUpdated": "2025-06-22T16:34:55.579Z"
+  "lastUpdated": "2025-08-18T12:59:57.597Z"
 }

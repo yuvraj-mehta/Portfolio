@@ -12,7 +12,8 @@ import { corsConfig } from './config/index.js';
 const app = express();
 
 // Middleware
-app.use(cors(corsConfig));
+// TEMP: Allow CORS from all origins for development
+app.use(cors({ origin: '*' }));
 app.use(express.json());
 
 // Routes

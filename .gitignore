@@ -9,6 +9,7 @@
 .env.production.local
 .env.staging
 .env.staging.local
+.DS_Store
 
 # OS generated files
 .DS_Store

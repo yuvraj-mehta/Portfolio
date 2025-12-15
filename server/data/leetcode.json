@@ -2,36 +2,36 @@
   "handle": "mythical-UV",
   "profile": {
     "name": null,
-    "rating": 1570.434906412852,
+    "rating": 1649.0351277854263,
     "maxRating": null,
     "rank": null,
-    "globalRanking": 523811,
+    "globalRanking": 423303,
     "avatar": null,
     "country": null,
     "organization": null,
     "reputation": null,
-    "starRating": 2
+    "starRating": 2.5
   },
   "problemsSolved": {
-    "total": 228,
-    "easy": 109,
-    "medium": 115,
-    "hard": 4
+    "total": 278,
+    "easy": 129,
+    "medium": 141,
+    "hard": 8
   },
   "contests": {
-    "rating": 1570.434906412852,
-    "attendedCount": 9,
-    "globalRanking": 193103,
+    "rating": 1649.0351277854263,
+    "attendedCount": 14,
+    "globalRanking": 125365,
     "bestRank": 6851,
-    "topPercentage": "27.7"
+    "topPercentage": "17.4"
   },
   "achievements": {
-    "stars": "2⭐",
+    "stars": "2.5⭐",
     "streaks": {
       "currentStreak": 3,
       "maxStreak": 18,
-      "totalActiveDays": 121
+      "totalActiveDays": 150
     }
   },
-  "lastUpdated": "2025-06-22T16:34:56.799Z"
+  "lastUpdated": "2025-08-18T12:59:59.316Z"
 }

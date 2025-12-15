@@ -1,3 +1,152 @@
+# Portfolio Server API Documentation
+
+Base URL: `/api`
+
+---
+
+## Coding Platform Endpoints
+
+### 1. Get LeetCode Stats
+
+- **Endpoint:** `GET /api/coding-platforms/leetcode`
+- **Description:** Returns user statistics from LeetCode.
+- **Response Example:**
+  ```json
+  {
+    "username": "your_leetcode_username",
+    "totalSolved": 500,
+    "ranking": 12345,
+    "easySolved": 200,
+    "mediumSolved": 200,
+    "hardSolved": 100,
+    "contributionPoints": 1000,
+    "profileUrl": "https://leetcode.com/your_leetcode_username"
+  }
+  ```
+
+---
+
+### 2. Get Codeforces Stats
+
+- **Endpoint:** `GET /api/coding-platforms/codeforces`
+- **Description:** Returns user statistics from Codeforces.
+- **Response Example:**
+  ```json
+  {
+    "handle": "your_codeforces_handle",
+    "rating": 1800,
+    "maxRating": 2000,
+    "rank": "Candidate Master",
+    "contribution": 50,
+    "profileUrl": "https://codeforces.com/profile/your_codeforces_handle"
+  }
+  ```
+
+---
+
+### 3. Get GeeksforGeeks (GFG) Stats
+
+- **Endpoint:** `GET /api/coding-platforms/gfg`
+- **Description:** Returns user statistics from GeeksforGeeks.
+- **Response Example:**
+  ```json
+  {
+    "username": "your_gfg_username",
+    "problemsSolved": 300,
+    "codingScore": 5000,
+    "profileUrl": "https://auth.geeksforgeeks.org/user/your_gfg_username"
+  }
+  ```
+
+---
+
+### 4. Get CodeChef Stats
+
+- **Endpoint:** `GET /api/coding-platforms/codechef`
+- **Description:** Returns user statistics from CodeChef.
+- **Response Example:**
+  ```json
+  {
+    "username": "your_codechef_username",
+    "rating": 2100,
+    "stars": 5,
+    "highestRating": 2200,
+    "globalRank": 1000,
+    "countryRank": 100,
+    "profileUrl": "https://www.codechef.com/users/your_codechef_username"
+  }
+  ```
+
+---
+
+### 5. Get All Platform Stats
+
+- **Endpoint:** `GET /api/coding-platforms/all`
+- **Description:** Returns a combined object with stats from all supported platforms.
+- **Response Example:**
+  ```json
+  {
+    "leetcode": {
+      /* ...leetcode stats... */
+    },
+    "codeforces": {
+      /* ...codeforces stats... */
+    },
+    "gfg": {
+      /* ...gfg stats... */
+    },
+    "codechef": {
+      /* ...codechef stats... */
+    }
+  }
+  ```
+
+---
+
+## Admin/Utility Endpoints
+
+### 6. Refresh All Platform Data
+
+- **Endpoint:** `GET /api/admin/refresh`
+- **Description:** Triggers a manual refresh of all coding platform data (if implemented).
+- **Response Example:**
+  ```json
+  {
+    "status": "success",
+    "message": "Data refreshed successfully"
+  }
+  ```
+
+---
+
+## Error Responses
+
+- All endpoints return appropriate HTTP status codes:
+  - `200 OK` for success
+  - `400 Bad Request` for invalid input
+  - `404 Not Found` if user/platform not found
+  - `500 Internal Server Error` for server issues
+- Error responses are in JSON:
+  ```json
+  {
+    "status": "error",
+    "message": "Description of the error"
+  }
+  ```
+
+---
+
+## Notes
+
+- All endpoints return JSON.
+- No authentication is required for public endpoints.
+- Data is cached and periodically refreshed for performance.
+- For more details, see in-code JSDoc comments and `docs/API.md` if available.
+
+---
+
+Let me know if you need request/response schema details or example requests for any specific endpoint!
+
 # API Documentation
 
 This document provides comprehensive details about the Coding Profiles API endpoints, which fetch coding profile data from various competitive programming platforms.
